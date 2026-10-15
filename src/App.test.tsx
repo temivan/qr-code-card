@@ -45,6 +45,26 @@ describe('App', () => {
     ).toBeInTheDocument()
   })
 
+  it('credits Frontend Mentor for the challenge in the footer', () => {
+    render(<App />)
+
+    expect(
+      within(screen.getByRole('contentinfo')).getByRole('link', {
+        name: 'Frontend Mentor',
+      }),
+    ).toHaveAttribute('href', 'https://www.frontendmentor.io?ref=challenge')
+  })
+
+  it('credits the developer with a link to their GitHub profile', () => {
+    render(<App />)
+
+    expect(
+      within(screen.getByRole('contentinfo')).getByRole('link', {
+        name: 'temivan',
+      }),
+    ).toHaveAttribute('href', 'https://github.com/temivan')
+  })
+
   it('has no detectable accessibility violations', async () => {
     const { container } = render(<App />)
 
