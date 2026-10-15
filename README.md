@@ -23,7 +23,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [github.com/temivan/qr-code-card](https://github.com/temivan/qr-code-card)
+- Solution URL: [frontendmentor.io/solutions/qr-code-card-bmDbSy0Grg](https://www.frontendmentor.io/solutions/qr-code-card-bmDbSy0Grg)
+- Repository: [github.com/temivan/qr-code-card](https://github.com/temivan/qr-code-card)
 - Live Site URL: [temivan.github.io/qr-code-card](https://temivan.github.io/qr-code-card/)
 
 ## My process
