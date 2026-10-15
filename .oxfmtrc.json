@@ -5,5 +5,5 @@
   "sortTailwindcss": {
     "stylesheet": "./src/index.css"
   },
-  "ignorePatterns": ["qr-code-component-main", "qr-code-component-figma", "pnpm-lock.yaml"]
+  "ignorePatterns": ["pnpm-lock.yaml"]
 }

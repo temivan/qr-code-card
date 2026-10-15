@@ -2,10 +2,6 @@
 *.fig
 *.sketch
 *.xd
-qr-code-component-figma/
-
-# Starter download (removed once the project is finished)
-qr-code-component-main/
 
 node_modules/
 dist/
