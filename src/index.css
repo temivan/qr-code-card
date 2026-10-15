@@ -14,4 +14,6 @@
   --text-preset-2: 0.9375rem;
   --text-preset-2--line-height: 1.4;
   --text-preset-2--letter-spacing: 0.0125rem;
+
+  --shadow-card: 0 25px 25px rgb(0 0 0 / 0.05);
 }
