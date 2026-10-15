@@ -1,0 +1,18 @@
+# Design files (Frontend Mentor asks not to share them)
+*.fig
+*.sketch
+*.xd
+qr-code-component-figma/
+
+# Starter download (removed once the project is finished)
+qr-code-component-main/
+
+node_modules/
+dist/
+coverage/
+*.local
+.DS_Store
+*.log
+.vscode/*
+!.vscode/extensions.json
+.idea
